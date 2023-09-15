@@ -1,0 +1,8 @@
+{
+    "editor.acceptSuggestionOnEnter": "on",
+    "yaml.schemas": {
+        "file:///c%3A/Users/ARSLAN%20COMPUTERs/.vscode/extensions/atlassian.atlascode-3.0.5/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml",
+        "https://json.schemastore.org/pubspec.json": "file:///e%3A/Study/flutter/portfolio/women_safety_app/pubspec.yaml"
+    },
+    "github-enterprise.uri": "Flutter women safety app "
+}
